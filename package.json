@@ -2,7 +2,7 @@
   "name": "average-calculator-service",
   "version": "1.0.0",
   "description": "A microservice for calculating averages of different number types",
-  "main": "src/index.js",
+  "main": "src/app.js",
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js"
