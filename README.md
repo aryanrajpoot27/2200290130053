@@ -52,7 +52,7 @@ Where `{type}` can be:
 
 Example:
 ```
-GET http://localhost:9876/numbers/e
+GET http://localhost:3000/numbers/e
 ```
 
 Response:
