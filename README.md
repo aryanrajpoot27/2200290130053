@@ -35,7 +35,7 @@ Production mode:
 npm start
 ```
 
-The service will start on port 9876 by default.
+The service will start on port 3000 by default.
 
 ## API Endpoints
 
